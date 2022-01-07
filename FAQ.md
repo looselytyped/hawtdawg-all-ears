@@ -11,4 +11,10 @@ Showcase your best self—whether that means a fresh-from-the-groomer glamour sh
 Open the Hawt Dawg app and click on "Edit Profile." 
 Scroll down to the section called "Passions" and tell potential mates and friends all about the treats and toys that make your tail wag. 
  
-When you’re done, click “Save Changes” to show the world.
+When you’re done, click “Save Changes” to show the world
+
+## Photos are nice and all but I don't see very well. How can I smell the other dogs?
+
+We regret that we are una ble offer smell-o-vision this time.
+As soon as human technology catches up.
+In the meatime, wiff your new friend.

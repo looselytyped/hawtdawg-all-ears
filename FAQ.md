@@ -14,3 +14,7 @@ Scroll down and look for "Passions" and write down favorite treats.
 
 Click "Save Changes"
 
+## Why can't I smell online
+
+Dogs are really stupid. To smell you need to do it real life.
+

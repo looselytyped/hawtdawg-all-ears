@@ -1,3 +1,4 @@
+## Photos are nice and all, but I don't see very well. How can I smell the other dogs?
 ## Where do I list my favorite treats?
 # FAQ
 
@@ -8,3 +9,4 @@ For those who are camera-shy, we recommend posting at least one to bring your pr
 Showcase your best self-whether that means a fresh-from-the-groomer glamour shot or an action shot from your last game of fetch.
 
 Addisin's changes.
+Sagnita's changes.

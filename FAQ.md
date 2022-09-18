@@ -11,3 +11,13 @@ bring your profile some attention.
 Showcase your beset self-whether that means a fresh-from-the-groomer
 glamour shot or an action shot from your last game of fetch.
 
+## Where do I list my favorite treats?
+
+Open the Hawt Dawg app and click on "Edit Profile"
+
+Scroll down to the section called "Passions" and tell
+potential mates and friends all about the treats and toys
+that make your tail wag.
+
+When you're done, click "Save Changes" to show the world.
+

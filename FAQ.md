@@ -33,3 +33,7 @@ sure to add a scent feature to the app.
 In the meantime, why not meet up at the dog park to get a whiff
 of your new friend?
 
+## Another frequently asked question
+
+Why is there air? Is it to pump up volleyballs?
+

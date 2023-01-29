@@ -13,3 +13,11 @@ Open the Hatw Dawg app and klick on "Edit Profile".
 Scroll down to the section calles "Passions" and tell potential mates and friends all about the treats and toys that make your tail wag.
 
 When you´re done, click "Save Changes" to show of the world
+
+## Photos are nice and all, but I don't see very well. How can I smell the other dog.
+
+We regret taht we are unable to offer our custommers smell-o-vision at this time.
+
+As soon as human technology catches up to dog noses, we'll be sure to add a sent feature to the app.
+
+In the meantime, why not meet up at the dog park to get a whiff of youer new friend?

@@ -1,0 +1,3 @@
+name: neko
+
+nickname: bandeko

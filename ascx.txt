@@ -1,3 +1,5 @@
+adding new comment
+
 INSERT INTO #tempx VALUES (0,'NUL','Null character','control')
 INSERT INTO #tempx VALUES (1,'SOH','Start of Heading','control')
 INSERT INTO #tempx VALUES (2,'STX','Start of Text','control')

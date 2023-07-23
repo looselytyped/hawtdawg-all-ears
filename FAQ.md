@@ -10,7 +10,11 @@ For those who are camera-shy, we recommend posting ast least one to bring your p
 
 Showcase your best self-whether that means a fresh-from-the-groomer glamour shot or an action shot from your last game of fetch. 
 
-<<<<<<< HEAD
+
+
+
+=======
+
 
 ## Where do I list my favorites treats?
 
@@ -24,15 +28,25 @@ scroll down to the section called passions and tell potential mates and friends 
 My ending - s
 
 
- 
+
+=======
+
+My ending - s
+
+
  ## Photos are nice and all.  but I do not see very well.  How can I smell the other dogs? 
  
  We regret. .... end
  
- 
 
 =======
-<<<<<<< HEAD
+
+
+My ending - s
+
+=======
+ 
+
 The end
 
 
@@ -40,6 +54,3 @@ The end
 
 
 =======
-My ending - s
->>>>>>> 99d040062c3ebf5653f1a04005fc4adf92a16d5a
->>>>>>> master
